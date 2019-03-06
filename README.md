@@ -19,7 +19,7 @@ It's not possible to foresee which kind of actors are going to participate in de
 
 ## Some basic contribution guidelines
 If you want your resource to be published in de.fi, you only need to:
-- **Issue creation**. Create an issue following the available [template](./template) in the repository. The mandatory sections are a clear title, a small overview and the content, which can be even a link to an external resource.
+- **Issue creation**. Create an issue following the available [template](./template.md) in the repository. The mandatory sections are a clear title, a small overview and the content, which can be even a link to an external resource.
 - **Well-written text**. We are not looking for the next Shakespeare, but before the publication, some basic grammar/expression requirements need to be fulfilled.
 - **Appropriate content**. The contents of the resource need to be related with the topic of Decentralized Finance and they must not be offensive or completely out of context.
 - **No promotions**. Do you want to share some news about an interesting project or breakthrough? Great, but direct promotions that don't provide any additional value to the community will not be allowed.
