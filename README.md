@@ -1,10 +1,10 @@
-# de.fi
+# de.fi - Open Source Contribution for News Related to Decentralized Finance
 
 ## Help spreading Decentralized Finance
 
 Decentralized Finance is a new field, but quickly extending its tentacles through a myriad of new and diverse ideas, projects and services.
-The objective of this repository is to serve as a speaker for the community to pipe news to a common place with great visibility: the de.fi website.
-People (or well educated robots) can submit their news, articles, projects or propositions related with Decentralized Finance here, and after a soft review, they will be forwarded to the de.fi website.
+The objective of this repository is to serve as a speaker for the community to pipe news to a common place with great visibility: the de.fi website. The de.fi website serves as a common place for distributing news on your defi project.
+People (or well educated robots) can submit their news (product launches, software upgrades), articles, projects or propositions related with Decentralized Finance here, and after a soft review, they will be forwarded to the de.fi website.
 
 ## The principles of de.fi
 Communities are built on principles, an the ones behind de.fi are:
@@ -25,4 +25,4 @@ If you want your resource to be published in de.fi, you only need to:
 - **No promotions**. Do you want to share some news about an interesting project or breakthrough? Great, but direct promotions that don't provide any additional value to the community will not be allowed.
 
 ## Who is behind de.fi
-The de.fi initiative, website and this repository is supported with :heart: by [AAVE](https://aave.com), but the goal is to gather all the Decentralized Finance participants around it, sharing, thinking and moving the field forward together
+The de.fi initiative belongs to everyone. The website and this repository is maintained with :heart: by [AAVE](https://aave.com), but the goal is to gather all the Decentralized Finance participants around it, sharing, thinking and moving the field forward together.
